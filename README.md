@@ -17,4 +17,4 @@ In this project, we focused on enhancing object detection in optical remote sens
 Mastering machine learning methods is considered the primary approach in intrusion detection.
 
 ## Certifications
-**Building Transformer-Based Natural Language Processing Applications @ Nvidia **
+**Building Transformer-Based Natural Language Processing Applications @ Nvidia**
