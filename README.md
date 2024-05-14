@@ -19,6 +19,7 @@ Mastering machine learning methods is considered the primary approach in intrusi
 ## Certifications
 **Building Transformer-Based Natural Language Processing Applications @ Nvidia**
 **Google Advanced Data Analytics @ Google**
+[Publication]([https://www.mdpi.com/1424-8220/22/8/3048](https://www.coursera.org/account/accomplishments/professional-cert/SQMNADXE4MRZ))
 **AI Fundamentals Certificate @ DataCamp**
 **Convolutional Neural Networks in TensorFlow**
 **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
