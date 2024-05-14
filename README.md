@@ -23,6 +23,6 @@ Mastering machine learning methods is considered the primary approach in intrusi
 
 **AI Fundamentals Certificate @ DataCamp** [Show credential](https://www.datacamp.com/skill-verification/AIF0027935450689)
 
-**Convolutional Neural Networks in TensorFlow** [Show credential](https://www.coursera.org/account/accomplishments/certificate/KLF7Z2MU6WGN)
+**Convolutional Neural Networks in TensorFlow** @ DeepLearning.AI [Show credential](https://www.coursera.org/account/accomplishments/certificate/KLF7Z2MU6WGN)
 
-**Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** [Show credential](https://www.coursera.org/account/accomplishments/certificate/RR84ZBJ5V72U)
+**Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** @ DeepLearning.AI [Show credential](https://www.coursera.org/account/accomplishments/certificate/RR84ZBJ5V72U)
