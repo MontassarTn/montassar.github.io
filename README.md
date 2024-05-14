@@ -1,4 +1,4 @@
-![image](https://github.com/MontassarTn/montassar.github.io/assets/142050727/488dea56-a012-4560-8350-9f0a487b0d58)# Data Scientist
+# Data Scientist
 #### Technical Skills: Python, SQL, NoSQL, Tensorflow, Pytorch
 
 ### Education
