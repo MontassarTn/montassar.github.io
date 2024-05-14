@@ -17,12 +17,12 @@ In this project, we focused on enhancing object detection in optical remote sens
 Mastering machine learning methods is considered the primary approach in intrusion detection.
 
 ## Certifications
-**Building Transformer-Based Natural Language Processing Applications @ Nvidia**
+**Building Transformer-Based Natural Language Processing Applications @ Nvidia** [Show credential](https://learn.nvidia.com/certificates?id=ahaye6feRYeSQh06u6mn8g)
 
-**Google Advanced Data Analytics @ Google** [Publication](https://www.coursera.org/account/accomplishments/professional-cert/SQMNADXE4MRZ)
+**Google Advanced Data Analytics @ Google** [Show credential](https://www.coursera.org/account/accomplishments/professional-cert/SQMNADXE4MRZ)
 
-**AI Fundamentals Certificate @ DataCamp**
+**AI Fundamentals Certificate @ DataCamp** [Show credential](https://www.datacamp.com/skill-verification/AIF0027935450689)
 
-**Convolutional Neural Networks in TensorFlow**
+**Convolutional Neural Networks in TensorFlow** [Show credential](https://www.coursera.org/account/accomplishments/certificate/KLF7Z2MU6WGN)
 
-**Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
+**Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** [Show credential](https://www.coursera.org/account/accomplishments/certificate/RR84ZBJ5V72U)
