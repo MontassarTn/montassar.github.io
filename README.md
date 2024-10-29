@@ -1,5 +1,5 @@
 # Data Scientist
-#### Technical Skills: Python, SQL, NoSQL, Tensorflow, Pytorch, NLP, Computer vision
+#### Technical Skills: Python, Tensorflow, Pytorch, NLP, Computer vision, Google Cloud platform, VertexAI
 
 ### Education
 - Preparatory cycle for engineering studies in Physics and Chemistry | Institut préparatoire aux études d'ingénieur de Bizerte 
