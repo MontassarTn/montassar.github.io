@@ -9,7 +9,7 @@
 
 ### Chatbot Assistant Broadcast domain
 Develop a sophisticated chatbot AI assistant designed to listen in on conversations between support staff and customers, guiding and assisting the supporter in resolving customer issues. This system utilizes Retrieval Augmented Generation (RAG) with parent document retrieval for enhanced information access. Additionally, it incorporates a memory workflow involving two language models (LLMs): the first LLM analyzes input while reviewing conversation history to generate a new input based on past interactions. The second LLM then takes the output of the first, along with contextual data from the RAG, to formulate responses drawing on previous conversations, without relying on external knowledge. \n  
-**Technologies**: Vertex AI, LangChain, Gemini 1.5-Pro.
+**Technologies**: GCP, Vertex AI, LangChain, Gemini 1.5-Pro, AssemblyAI.
 
 ### Chatbot Assistant Project Management
 Develop a chatbot assistant for the Project Management Body of Knowledge (PMBOK) book. The workflow begins with preprocessing the book’s figures and tables, converting them to text using LlamaParse. This text is then chunked and processed to build a knowledge graph, using GroqAPI’s "LLama 3.2" model, which extracts nodes and relationships, complete with attributes like definitions and synonyms. The resulting graph is stored in Neo4j. Finally, GraphRAG and prompt engineering techniques are applied to respond to user questions, drawing on relevant context from the graph.
