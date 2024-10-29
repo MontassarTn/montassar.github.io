@@ -8,7 +8,7 @@
 ## Projects
 
 ### Chatbot Assistant Broadcast domain
-Develop a sophisticated chatbot AI assistant designed to listen in on conversations between support staff and customers, guiding and assisting the supporter in resolving customer issues. This system utilizes Retrieval Augmented Generation (RAG) with parent document retrieval for enhanced information access. Additionally, it incorporates a memory workflow involving two language models (LLMs): the first LLM analyzes input while reviewing conversation history to generate a new input based on past interactions. The second LLM then takes the output of the first, along with contextual data from the RAG, to formulate responses drawing on previous conversations, without relying on external knowledge. 
+Develop a sophisticated chatbot AI assistant designed to listen in on conversations between support staff and customers, guiding and assisting the supporter in resolving customer issues. This system utilizes Retrieval Augmented Generation (RAG) with parent document retrieval for enhanced information access. Additionally, it incorporates a memory workflow involving two language models (LLMs): the first LLM analyzes input while reviewing conversation history to generate a new input based on past interactions. The second LLM then takes the output of the first, along with contextual data from the RAG, to formulate responses drawing on previous conversations, without relying on external knowledge. <br>
 **Technologies**: GCP, Vertex AI, LangChain, Gemini 1.5-Pro, AssemblyAI.
 
 ### Chatbot Assistant Project Management domain
