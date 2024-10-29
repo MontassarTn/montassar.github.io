@@ -12,15 +12,15 @@ Develop a sophisticated chatbot AI assistant designed to listen in on conversati
 **Technologies**: GCP, Vertex AI, LangChain, Gemini 1.5-Pro, AssemblyAI.
 
 ### Chatbot Assistant Project Management
-Develop a chatbot assistant for the Project Management Body of Knowledge (PMBOK) book. The workflow begins with preprocessing the book’s figures and tables, converting them to text using LlamaParse. This text is then chunked and processed to build a knowledge graph, using GroqAPI’s "LLama 3.2" model, which extracts nodes and relationships, complete with attributes like definitions and synonyms. The resulting graph is stored in Neo4j. Finally, GraphRAG and prompt engineering techniques are applied to respond to user questions, drawing on relevant context from the graph.\n 
+Develop a chatbot assistant for the Project Management Body of Knowledge (PMBOK) book. The workflow begins with preprocessing the book’s figures and tables, converting them to text using LlamaParse. This text is then chunked and processed to build a knowledge graph, using GroqAPI’s "LLama 3.2" model, which extracts nodes and relationships, complete with attributes like definitions and synonyms. The resulting graph is stored in Neo4j. Finally, GraphRAG and prompt engineering techniques are applied to respond to user questions, drawing on relevant context from the graph. \n 
 **Technologies**: NLP, Llamaindex, Langchain, GraphRAG, Llama3.2, Neo4j.
 
 ### Automated Dental Radiograph Interpretation and Reporting System
-The project aims to develop an AI-driven system to analyze dental panoramic radiographs, identify tooth anomalies, classify their severity, and generate a comprehensive report. The workflow begins by training FastRCNN and YOLOv11 models to detect each of the 32 teeth as individual classes. Next, a fusion model combines YOLOv11 and DINO Swin to detect anomalies across four classes. The outputs from these models, structured as a JSON file, are then processed by GPT to produce the final report, presented to users through a Softr interface.\n 
+The project aims to develop an AI-driven system to analyze dental panoramic radiographs, identify tooth anomalies, classify their severity, and generate a comprehensive report. The workflow begins by training FastRCNN and YOLOv11 models to detect each of the 32 teeth as individual classes. Next, a fusion model combines YOLOv11 and DINO Swin to detect anomalies across four classes. The outputs from these models, structured as a JSON file, are then processed by GPT to produce the final report, presented to users through a Softr interface. \n 
 **Technologies**: GCP, Vertex AI pipelines, Computervision.
 
 ### Car penalty automation
-Automates car penalty management for Swiss Premium Negoce by employing Surya OCR for text extraction from images, followed by fine-tuning with LORA Mistral AI to ensure accurate extraction of relevant data in XML format, This streamlined process enhances efficiency and accuracy in determining penalty liability.\n 
+Automates car penalty management for Swiss Premium Negoce by employing Surya OCR for text extraction from images, followed by fine-tuning with LORA Mistral AI to ensure accurate extraction of relevant data in XML format, This streamlined process enhances efficiency and accuracy in determining penalty liability. \n 
 **Technologies**: OCR, LORA, LLM.
 
 ### Object Detection Using Adaptive Mask R-CNN in Optical Remote Sensing Images
