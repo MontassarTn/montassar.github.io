@@ -16,8 +16,8 @@ Develop a chatbot assistant for the Project Management Body of Knowledge (PMBOK)
 **Technologies**: NLP, Llamaindex, Langchain, GraphRAG, Llama3.2, Neo4j.
 
 ### Automated Dental Radiograph Interpretation and Reporting System
-The project aims to develop an AI-driven system to analyze dental panoramic radiographs, identify tooth anomalies, classify their severity, and generate a comprehensive report. The workflow begins by training FastRCNN and YOLOv11 models to detect each of the 32 teeth as individual classes. Next, a fusion model combines YOLOv11 and DINO Swin to detect anomalies across four classes. The outputs from these models, structured as a JSON file, are then processed by GPT to produce the final report, presented to users through a Softr interface. <br>
-**Technologies**: GCP, Vertex AI pipelines, Computervision.
+The project aims to develop an AI-driven system to analyze dental panoramic radiographs, identify tooth anomalies, classify their severity, and generate a comprehensive report. The workflow begins by training Dino with RESNET backbone model to detect each of the 32 teeth as individual classes. Next, a fusion model combines YOLOv11 and DINO Swin to detect anomalies across four classes. The outputs from these models, structured as a JSON file, are then processed by GPT to produce the final report, presented to users through a Softr interface. <br>
+**Technologies**: GCP, Vertex AI, Cloud run, GPT, Computervision.
 
 ### Automated Newsletter Generation Using AI Agents 
 This project automates newsletter creation on any topic by using AI agents and semantic search to gather, summarize, and organize content into an HTML newsletter. Starting with the EXA Semantic Search Engine to find relevant web content, the Crew AI Agents (Researcher, Editor, and HTML Generator) each handle specific tasks—researching articles, refining summaries, and compiling them into an HTML format. Supported by tools for fetching and comparing articles, and using Gloq and Llama 3.1 (70b) APIs, this system seamlessly streamlines newsletter generation from research to final layout. <br> 
