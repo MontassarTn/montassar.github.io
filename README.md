@@ -1,9 +1,12 @@
-# Data Scientist
+# Machine learning Engineer
 #### Technical Skills: Python, Tensorflow, Pytorch, NLP, Computer vision, Google Cloud platform, VertexAI
 
 ### Education
 - Preparatory cycle for engineering studies in Physics and Chemistry | Institut préparatoire aux études d'ingénieur de Bizerte 
 - Computer Engineering | Ecole Sup Privée d'Ingénierie et de Technologies ESPRIT
+
+### Professional Experience 
+- Freelancer Machine learning Engineer at Adopt-AI : Present
 
 ## Projects
 
@@ -34,6 +37,8 @@ Enhancing object detection in optical remote sensing images through the utilizat
 Fine-tuned the DeBERTaV3 model to classify AI-generated versus human-written text, using stratified Kaggle datasets split by labels (0 for human, 1 for AI). My process included preprocessing text into tokenized sequences with padding masks, building data pipelines via TensorFlow’s tf.data API, and implementing a learning rate scheduler with gradual decay. The Keras-based model, with DeBERTaV3 as the backbone, trained over three epochs to optimize accuracy. The resulting model effectively identifies text origin, distinguishing between human and AI-generated content.
 
 ## Certifications
+**Natural Language Processing @ DeepLearning.AI** [Show credential](https://www.coursera.org/account/accomplishments/specialization/U4522SV4CUJC)
+
 **Building Transformer-Based Natural Language Processing Applications @ Nvidia** [Show credential](https://learn.nvidia.com/certificates?id=ahaye6feRYeSQh06u6mn8g)
 
 **Google Advanced Data Analytics @ Google** [Show credential](https://www.coursera.org/account/accomplishments/professional-cert/SQMNADXE4MRZ)
