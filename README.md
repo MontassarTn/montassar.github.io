@@ -10,23 +10,23 @@
 
 ## Projects
 
-### Chatbot Assistant Broadcast domain
+### Chatbot Assistant Broadcast domain [Link Video](https://www.youtube.com/watch?v=3xhqRF668u4)
 Develop a sophisticated chatbot AI assistant designed to listen in on conversations between support staff and customers, guiding and assisting the supporter in resolving customer issues. This system utilizes Retrieval Augmented Generation (RAG) with parent document retrieval for enhanced information access. Additionally, it incorporates a memory workflow involving two language models (LLMs): the first LLM analyzes input while reviewing conversation history to generate a new input based on past interactions. The second LLM then takes the output of the first, along with contextual data from the RAG, to formulate responses drawing on previous conversations, without relying on external knowledge. <br>
 **Technologies**: GCP, Vertex AI, LangChain, Gemini 1.5-Pro, AssemblyAI.
 
-### Chatbot Assistant Project Management domain
+### Chatbot Assistant Project Management domain [Link Video](https://www.youtube.com/watch?v=iJQSa4qwFJk)
 Develop a chatbot assistant for the Project Management Body of Knowledge (PMBOK) book. The workflow begins with preprocessing the book’s figures and tables, converting them to text using LlamaParse. This text is then chunked and processed to build a knowledge graph, using GroqAPI’s "LLama 3.2" model, which extracts nodes and relationships, complete with attributes like definitions and synonyms. The resulting graph is stored in Neo4j. Finally, GraphRAG and prompt engineering techniques are applied to respond to user questions, drawing on relevant context from the graph. <br>
 **Technologies**: NLP, Llamaindex, Langchain, GraphRAG, Llama3.2, Neo4j.
 
-### Automated Dental Radiograph Interpretation and Reporting System
+### Automated Dental Radiograph Interpretation and Reporting System [Link Video](https://www.youtube.com/watch?v=iT92X2xBneA)
 The project aims to develop an AI-driven system to analyze dental panoramic radiographs, identify tooth anomalies, classify their severity, and generate a comprehensive report. The workflow begins by training Dino with RESNET backbone model to detect each of the 32 teeth as individual classes. Next, a fusion model combines YOLOv11 and DINO Swin to detect anomalies across four classes. The outputs from these models, structured as a JSON file, are then processed by GPT to produce the final report, presented to users through a Softr interface. <br>
 **Technologies**: GCP, Vertex AI, Cloud run, GPT, Computervision.
 
-### Automated Newsletter Generation Using AI Agents 
+### Automated Newsletter Generation Using AI Agents [Link Video](https://www.youtube.com/watch?v=Zh1YDAcvi3M)
 This project automates newsletter creation on any topic by using AI agents and semantic search to gather, summarize, and organize content into an HTML newsletter. Starting with the EXA Semantic Search Engine to find relevant web content, the Crew AI Agents (Researcher, Editor, and HTML Generator) each handle specific tasks—researching articles, refining summaries, and compiling them into an HTML format. Supported by tools for fetching and comparing articles, and using Gloq and Llama 3.1 (70b) APIs, this system seamlessly streamlines newsletter generation from research to final layout. <br> 
 **Technologies**: EXA, CrewAI, LLM.
 
-### Car penalty automation
+### Car penalty automation [Link Video](https://www.youtube.com/watch?v=pmaIApRVV6Q)
 Automates car penalty management for Swiss Premium Negoce by employing Surya OCR for text extraction from images, followed by fine-tuning with LORA Mistral AI to ensure accurate extraction of relevant data in XML format, This streamlined process enhances efficiency and accuracy in determining penalty liability. <br>
 **Technologies**: OCR, LORA, LLM.
 
